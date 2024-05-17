@@ -248,7 +248,7 @@ ul li a:hover{
     color: orangered;
 }
 
-@media screen and (max-width:1200px);{
+@media screen and (max-width:1200px){
   /*Normal-Screen*/
 
   .navbar{
@@ -295,7 +295,7 @@ ul li a:hover{
   }
 }
 
-@media screen and (max-width:1170px);{
+@media screen and (max-width:1170px){
     /*Login-Box*/
     .main{
         padding-left: 20px;
@@ -336,7 +336,7 @@ ul li a:hover{
 
 } 
 
-@media screen and (max-width:830px);{
+@media screen and (max-width:830px){
     /*Tablet*/
     .content{
         margin-top: 120px;
@@ -425,7 +425,7 @@ ul li a:hover{
          }
 }
 
-@media screen and (max-width:600px);{
+@media screen and (max-width:600px){
     /*IPAD old version*/
     .content{
         margin-top: 80px;
